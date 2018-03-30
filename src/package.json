@@ -1,0 +1,26 @@
+{
+  "name": "hospital-management",
+  "version": "1.0.0",
+  "description": "Sample app for hospital management",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darpit08/hospital-management.git"
+  },
+  "keywords": [
+    "hospital-management"
+  ],
+  "author": "Arpit Dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darpit08/hospital-management/issues"
+  },
+  "homepage": "https://github.com/darpit08/hospital-management#readme"
+}
