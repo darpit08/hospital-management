@@ -4,6 +4,7 @@
   "description": "Sample app for hospital management",
   "main": "index.js",
   "dependencies": {
+    "amqplib": "^0.5.2",
     "moment": "^2.21.0"
   },
   "devDependencies": {},
